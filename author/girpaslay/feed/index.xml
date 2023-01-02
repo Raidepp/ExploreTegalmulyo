@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/01/cropped-fix-no-bg-32x32.png</url>
+	<title>girpaslay &#8211; Explore Tegalmulyo</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>./../../../hello-world/index.html</link>
