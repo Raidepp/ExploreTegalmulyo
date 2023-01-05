@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Explore Tegalmulyo	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comments on: Hello world!	</title>
+	<atom:link href="/2023/01/04/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2023/01/04/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 	<description></description>
 	<lastBuildDate>Wed, 04 Jan 2023 23:20:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>/2023/01/04/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
